@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gul:home|Door43 (gul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gul|d43-gul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gul/archive/master.zip|d43-gul.zip]]
+
+**Recent Changes**
+{{changes>ns = gul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gul|Ethnologue data]]
+
